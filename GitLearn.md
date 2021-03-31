@@ -50,7 +50,7 @@ git checkout ./
 
 ## git push 省略参数  
 
-> 具体在 git config --local -l
+> 具体在 **git config --local -l**
 
 再来说说git push -u和git branch --set-upstream-to=指令之间的区别。
 举个例子：我要把本地分支master与远程仓库origin里的分支gaga建立关联。
